@@ -1,7 +1,6 @@
 # BonziWORLD
 
-## OLD NOTE FEOM JOSEPH JUDGE:
- 
+## OLD NOTE FROM JOSEPH JUDGE:
 This project has been discontinued due to my time being taken up by other responsibilities. Thanks for all the laughs and memes along the way.
 
 **This project was unarchived in order to document security issues. However, barely anyone used issues for that purpose are more often created irrelevant complaints. To be clear, *I no longer have anything to do with any actively hosted instance of BonziWORLD or any of the community.* Do not bug me about anything related to BonziWORLD, I have nothing to do with it and no longer want anything to do with it.**
@@ -46,8 +45,6 @@ node index.js
 After this, BonziWORLD will be accessible on port 3000. (http://localhost:3000/)
 
 ## ANOTHER NOTE FROM JOSEPH JUDGE:
-
-## Disclaimer
 I'm not responsible if you screw up anything with your computer while setting this up. I have no idea how you would, but someone will find a way. I also will not provide support for installing dependencies. If you have everything installed properly, the above commands will work.
 
 ## License
