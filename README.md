@@ -19,7 +19,7 @@ In a terminal/command prompt, navigate to where you'd like BonziWORLD to be plac
 git clone https://github.com/joseph14078/BonziWORLD
 cd BonziWORLD
 ```
--
+
 ## Setup (NEW)
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
